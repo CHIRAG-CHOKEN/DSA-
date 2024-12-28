@@ -14,11 +14,7 @@ int main()
   
     // Multiplication operator
     cout << "a * b = " << (a * b) << endl;
-  
-    // Division operator
     cout << "a / b = " << (a / b) << endl;
-  
-    // Modulo operator
     cout << "a % b = " << (a % b) << endl;
 
     return 0;
